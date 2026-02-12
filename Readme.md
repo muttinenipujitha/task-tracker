@@ -1,10 +1,4 @@
-Here is the content for your `README.md` file. I have written this to be professional, highlighting the features of your code (like LocalStorage persistence) which adds extra value to the assignment.
 
-### README.md
-
-Copy the code below and save it as `README.md` in the same folder as your other files.
-
-```markdown
 # Task Tracker
 
 A lightweight, responsive Task Tracker web application built with vanilla HTML, CSS, and JavaScript. This application allows users to manage their daily to-do lists efficiently with a clean and intuitive interface.
@@ -41,5 +35,4 @@ No build tools or servers are required.
 ## Author
 
 Pujitha Muttineni
-```
 
